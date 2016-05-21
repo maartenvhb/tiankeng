@@ -1,2 +1,2 @@
 # tiankeng
-Python-based sinkhole
+Lightweight Python-based sinkhole
